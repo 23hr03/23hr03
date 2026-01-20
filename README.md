@@ -31,6 +31,13 @@ Formación sólida en **programación orientada a objetos**, bases de datos y bu
 - **SQL** (MySQL / SQLite)
 - MongoDB
 
+  
+### Cloud
+- AWS (AWS Academy)
+- Cloud Foundations
+- Cloud Operations
+- Uso básico de servicios en la nube
+
 ### Mobile
 - Android · Kotlin
 - Room · SharedPreferences
