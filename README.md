@@ -74,5 +74,5 @@ Formación sólida en **programación orientada a objetos**, bases de datos y bu
 ---
 
 ## 📫 Contacto
-- 💼 LinkedIn: (agregar)
-- 📧 Email: (agregar)
+- 💼 LinkedIn: (https://www.linkedin.com/in/hector-landaeta-54a17222b/)
+- 📧 Email: (landaetahectorrenier@gmail.com)
